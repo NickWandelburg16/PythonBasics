@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d76092b6-be56-4b60-80c2-8c524989cefd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DivisibleBy.py</StartupFile>
+    <StartupFile>EvenOddNumbers.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="DivisibleBy.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EvenOddNumbers.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
