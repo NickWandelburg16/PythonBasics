@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d76092b6-be56-4b60-80c2-8c524989cefd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EvenOddNumbers.py</StartupFile>
+    <StartupFile>SumAverage.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="EvenOddNumbers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SumAverage.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
